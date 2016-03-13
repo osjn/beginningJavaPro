@@ -1,0 +1,11 @@
+package myPackage;
+/**
+ * 
+ * This is a simple Java application.
+ * It prints a short statement to the standard output.
+ *
+ */
+
+public class MyFirstApplication {
+
+}

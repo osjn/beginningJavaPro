@@ -1,0 +1,6 @@
+package com.leclex;
+
+public class Course {
+	int id;
+	String name;
+}

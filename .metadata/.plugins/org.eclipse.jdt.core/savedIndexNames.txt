@@ -1,0 +1,2 @@
+INDEX VERSION 1.127+D:\github\beginningJavaPro\.metadata\.plugins\org.eclipse.jdt.core
+3796315626.index

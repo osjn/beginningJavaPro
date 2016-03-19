@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ProgramArguments:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ProgramArguments_jar</output-path>
+    <root id="archive" name="ProgramArguments.jar">
+      <element id="module-output" name="ProgramArguments" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,6 @@
+apples
+bananas
+water
+orange juice
+milk
+bread

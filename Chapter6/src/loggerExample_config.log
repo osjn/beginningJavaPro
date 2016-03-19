@@ -1,0 +1,22 @@
+三月 14, 2016 11:09:05 下午 LoggerExample recalculate
+信息: fundAmount = 11000.0
+三月 14, 2016 11:09:05 下午 LoggerExample recalculate
+信息: fundAmount = 11000.0
+三月 14, 2016 11:09:05 下午 LoggerExample recalculate
+信息: fundAmount = 11000.0
+三月 14, 2016 11:09:05 下午 LoggerExample recalculate
+信息: fundAmount = 11000.0
+三月 14, 2016 11:09:05 下午 LoggerExample recalculate
+信息: fundAmount = 11000.0
+三月 14, 2016 11:09:05 下午 LoggerExample recalculate
+信息: fundAmount = 11000.0
+三月 14, 2016 11:09:05 下午 LoggerExample main
+严重: monthlyPension is too low.
+三月 14, 2016 11:09:05 下午 LoggerExample main
+配置: configuration message
+三月 14, 2016 11:09:05 下午 LoggerExample main
+信息: informational message
+三月 14, 2016 11:09:05 下午 LoggerExample main
+警告: warning message
+三月 14, 2016 11:09:05 下午 LoggerExample main
+严重: severe message

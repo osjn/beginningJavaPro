@@ -1,0 +1,6 @@
+[ERROR] 2016-03-15 00:52:23,350 [main] ApacheLogging - error message
+[FATAL] 2016-03-15 00:52:23,352 [main] ApacheLogging - fatal message
+[ERROR] 2016-03-15 00:57:07.049 [main] ApacheLogging - error message
+[FATAL] 2016-03-15 00:57:07.050 [main] ApacheLogging - fatal message
+[ERROR] 2016-03-15 00:59:25.733 [main] ApacheLogging - error message
+[FATAL] 2016-03-15 00:59:25.735 [main] ApacheLogging - fatal message
